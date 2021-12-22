@@ -1,6 +1,6 @@
 - 👋 Hi, I’m poult.
 - 👀 I’m interested in woking out and basketball, music, creating new stuffs.
-- 🌱 I’m PHd candidate in SKKU currently, my major is computer science, and I focue on computer vision. 
+- 🌱 I’m PHd candidate in SKKU currently, my major is computer science, and I focus on computer vision. 
 - 💞️ I’m looking to collaborate on everything with interesting people.
 - 📫 You can reach me via e-mail, or instagram.
 e-mail: 348900128@qq.com
